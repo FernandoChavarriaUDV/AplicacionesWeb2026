@@ -70,3 +70,5 @@ Estoy aprendiendo:
 - hotfix
 
 Versión 1.0 – Lista para entrega
+
+Hotfix aplicado: corrección menor de texto
