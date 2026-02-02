@@ -68,3 +68,5 @@ Estoy aprendiendo:
 - develop
 - release
 - hotfix
+
+Versión 1.0 – Lista para entrega
